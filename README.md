@@ -1,6 +1,6 @@
 # QuickNotes
 
-A simple and efficient Obsidian plugin that allows you to quickly create notes in a specified folder with customizable templates.
+A simple and efficient [Obsidian](https://obsidian.md) plugin that allows you to quickly create notes in a specified folder with customizable templates.
 
 ## Features
 
